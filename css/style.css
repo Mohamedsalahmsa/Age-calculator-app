@@ -172,4 +172,7 @@ span {
     #Months {
         font-size: 50px;
     }
+      .notActive {
+        display: none;
+    }
 }
